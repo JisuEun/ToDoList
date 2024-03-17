@@ -14,7 +14,7 @@
 3. Mustache 템플릿
 
 ## 💫개발 환경
-1. IntelliJ Idea
+1. IntelliJ IDEA
 2. Java 17
 3. Gradle
 
