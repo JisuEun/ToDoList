@@ -1,6 +1,6 @@
 # To Do List 웹 개발
 <p align="center>
-  <img src=![녹화_2024_03_18_02_24_16_169 (1)](https://github.com/JisuEun/ToDoList/assets/76491203/76f087db-c444-452a-afe1-c5394204f823)>
+  <img src="![녹화_2024_03_18_02_24_16_169 (1)](https://github.com/JisuEun/ToDoList/assets/76491203/76f087db-c444-452a-afe1-c5394204f823)">
   </p>
 
 <https://github.com/JisuEun/firstproject> 에서 공부한 내용을 바탕으로 CRUD를 활용하여 간단한 To Do List 사이트를 개발하였습니다.
